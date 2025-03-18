@@ -6,10 +6,10 @@
       version="2.0">
 <channel>
 <title>BrykLab</title>
-<link>https://bryklab.net/about_jarek/</link>
-<atom:link href="https://bryklab.net/about_jarek/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://bryklab.net/posts/2024-10-30-TASO-project-outcomes/</link>
+<atom:link href="https://bryklab.net/posts/2024-10-30-TASO-project-outcomes/index.xml" rel="self" type="application/rss+xml"/>
 <description>Dr Jarek Bryk&#39;s website at the University of Huddersfield in the north of England</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Tue, 18 Mar 2025 16:26:42 GMT</lastBuildDate>
+<lastBuildDate>Tue, 18 Mar 2025 16:26:41 GMT</lastBuildDate>
 </channel>
 </rss>
