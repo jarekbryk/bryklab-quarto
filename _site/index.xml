@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>BrykLab</title>
+<link>https://bryklab.net/</link>
+<atom:link href="https://bryklab.net/index.xml" rel="self" type="application/rss+xml"/>
+<description>Dr Jarek Bryk&#39;s website at the University of Huddersfield in the north of England</description>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Sun, 01 Oct 2023 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>UNIGEMS paper is published</title>
+  <dc:creator>Jarek Bryk</dc:creator>
+  <link>https://bryklab.net/posts/2023-10-02-unigems-paper-is-published/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This paper was a long time coming and I am very glad it is finally, officially out (although the resources it describes have been stealthily popular for some time already). The original idea is what brought me to the National Centre for Biotechnology Education at the University of Reading back in 2012, where, along with Dean Madden and John Schollar, we came up with the idea of using some synthetic biology approaches to develop a simple and extensible system of parts and plasmids to enable assembly and characterisation of them in undergaduate settings (<a href="https://doi.org/10.6084/m9.figshare.1086120.v1">check out our poster from SB6 in London</a>). (Later we developed it further, to make it work in <a href="https://www.ncbe.reading.ac.uk/microbiology/">secondary schools and six forms</a>, the primary market for NCBE.) We quickly made some progress (see the <a href="https://www.ncbe.reading.ac.uk/bacterial-transformation-kit/">bacterial transformation kit</a> availabe in NCBE since 2014) and put the protocols for the manipulation of the parts online (the website is no longer available).</p>
+<p>Then I started my independent position at Huddersfield and soon afterwards Dean suddenly died; John retired shortly after than and by the time I got around to finishing these resources, it was 2017. It was thanks to two of my project and placement students at Huddersfield, Abbie Williams and Alex Siddall, who took the project up and developed the plasmids and parts to the point where they could be <a href="https://www.addgene.org/Jaroslaw_Bryk/">deposited in Addgene for all to use</a>.</p>
+<p>Jason Sanders, another student at Huddersfield, also prepared <a href="https://figshare.com/articles/figure/Unigems_plasmid_illustrations/14626344">the graphical materials - plasmid maps -</a> which we hope will be useful for educators to prepare their own assembly diagrams. They are excellent, if I say so myself ;-).</p>
+<p>Check them all out and enjoy: <a href="https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.0.000596.v3">Unigems: plasmids and parts to facilitate teaching on assembly, gene expression control and logic in <em>E. coli</em></a>.</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{bryk2023,
+  author = {Bryk, Jarek},
+  title = {UNIGEMS Paper Is Published},
+  date = {2023-10-02},
+  url = {https://bryklab.net/posts/2023-10-02-unigems-paper-is-published/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-bryk2023" class="csl-entry quarto-appendix-citeas">
+Bryk, Jarek. 2023. <span>“UNIGEMS Paper Is Published.”</span> October 2,
+2023. <a href="https://bryklab.net/posts/2023-10-02-unigems-paper-is-published/">https://bryklab.net/posts/2023-10-02-unigems-paper-is-published/</a>.
+</div></div></section></div> ]]></description>
+  <guid>https://bryklab.net/posts/2023-10-02-unigems-paper-is-published/</guid>
+  <pubDate>Sun, 01 Oct 2023 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>We have won!</title>
+  <dc:creator>Jarek Bryk</dc:creator>
+  <link>https://bryklab.net/posts/2023-01-07-we-have-won/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>The Strategic Teaching and Learning Team, where I have worked on the HuDAP - Huddersfield Differential Attainment Project (see the <a href="../../research">research page</a>, has been awarded the Times Higher Education Award 2022 for the Outstanding Contribution to Equality, Diversity and Inclusion. Here is the link to <a href="https://the-awards.co.uk/2023/en/page/archive-2022">their page with the results</a> and <a href="https://www.hud.ac.uk/news/2022/november/huddersfield-the-2022-award-win/">our university’s announcement</a>. You can see more photos from the event at <a href="https://www.flickr.com/photos/timeshighered/52512872241/in/album-72177720303777190">the THE’s Flickr album</a>.)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://bryklab.net/images/the_award_2022.jpeg" title="Photo of the STLT team at the THE Awards 2022" class="img-fluid figure-img"></p>
+<figcaption>Photo of the STLT team at the THE Awards 2022</figcaption>
+</figure>
+</div>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{bryk2023,
+  author = {Bryk, Jarek},
+  title = {We Have Won!},
+  date = {2023-01-07},
+  url = {https://bryklab.net/posts/2023-01-07-we-have-won/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-bryk2023" class="csl-entry quarto-appendix-citeas">
+Bryk, Jarek. 2023. <span>“We Have Won!”</span> January 7, 2023. <a href="https://bryklab.net/posts/2023-01-07-we-have-won/">https://bryklab.net/posts/2023-01-07-we-have-won/</a>.
+</div></div></section></div> ]]></description>
+  <guid>https://bryklab.net/posts/2023-01-07-we-have-won/</guid>
+  <pubDate>Sat, 07 Jan 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Congratulations, Dr Rohan Raval!</title>
+  <dc:creator>Jarek Bryk</dc:creator>
+  <link>https://bryklab.net/posts/2022-07-18-congratulations-dr-rohan-raval/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Finally! Rohan has actually been a doctor for a good while now, but only now we were able to put a hat on it. It is my great pleasure to congratulate him on successful completion of his doctoral thesis “Ecological and population genomics of the wild yellow-necked mouse, <i>Apodemus flavicollis</i>”. He is now Dr Rohan Raval and the second alumni of the BrykLab. Already since graduation, Rohan has been working as a computational biologist in the NHS Blood and Transplant Division in London. Well done all around :-)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://bryklab.net/images/rohan-graduation.jpg" title="Rohan with his supervisor on graduation day" class="img-fluid figure-img"></p>
+<figcaption>Rohan with his supervisor on graduation day :-)</figcaption>
+</figure>
+</div>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{bryk2022,
+  author = {Bryk, Jarek},
+  title = {Congratulations, {Dr} {Rohan} {Raval!}},
+  date = {2022-07-18},
+  url = {https://bryklab.net/posts/2022-07-18-congratulations-dr-rohan-raval/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-bryk2022" class="csl-entry quarto-appendix-citeas">
+Bryk, Jarek. 2022. <span>“Congratulations, Dr Rohan Raval!”</span> July
+18, 2022. <a href="https://bryklab.net/posts/2022-07-18-congratulations-dr-rohan-raval/">https://bryklab.net/posts/2022-07-18-congratulations-dr-rohan-raval/</a>.
+</div></div></section></div> ]]></description>
+  <guid>https://bryklab.net/posts/2022-07-18-congratulations-dr-rohan-raval/</guid>
+  <pubDate>Sun, 17 Jul 2022 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Chimeras paper is published</title>
+  <dc:creator>Jarek Bryk</dc:creator>
+  <link>https://bryklab.net/posts/2022-07-06-chimeras-paper-is-published/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>The wealth of genotyping that we have done in the last 5 years (and by “we”, I mean Marisa and Rohan), coupled with the upgraded quaddRAD genotyping protocol, enabled us to characterise and quantify the various chimeric sequences in a sequencing output and assess their impact on the interpretation of the results. We knew we would be able to do this once Marisa switched to the four-adapter protocol by Franchini et al., and she and a fellow PhD student at Huddersfield, Bernardo, went away with the analysis. Rohan’s project delivered another few hundreds of samples genotyped with the same adapters and protocol, and in two different PCR setups. We had all the pieces for a really high-powered study. So, what did we find?</p>
+<p>The bad news is that chimeras are there and most of the protocols do not allow for their identification <em>at all</em>, particularly if you put several multiplexed groups of samples on a single lane (as you most likely do). The good news is that if you maintain good quality standards in your wet-lab and computational pipeline (high molecular weight DNA, high coverage filters etc.), impact of the chimeras is minimal. We also have found that you should probably not attempt barcode rescue beyond 2 mismatches, as above that level you may be mainly creating chimeric rather than recovering actual reads.</p>
+<p>Enjoy the paper and congratulations to all involved!</p>
+<p><a href="https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13661">Identification and quantification of chimeric sequencing reads in a highly multiplexed RAD-seq protocol</a></p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{bryk2022,
+  author = {Bryk, Jarek},
+  title = {Chimeras Paper Is Published},
+  date = {2022-07-06},
+  url = {https://bryklab.net/posts/2022-07-06-chimeras-paper-is-published/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-bryk2022" class="csl-entry quarto-appendix-citeas">
+Bryk, Jarek. 2022. <span>“Chimeras Paper Is Published.”</span> July 6,
+2022. <a href="https://bryklab.net/posts/2022-07-06-chimeras-paper-is-published/">https://bryklab.net/posts/2022-07-06-chimeras-paper-is-published/</a>.
+</div></div></section></div> ]]></description>
+  <guid>https://bryklab.net/posts/2022-07-06-chimeras-paper-is-published/</guid>
+  <pubDate>Tue, 05 Jul 2022 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>UNIGEMS preprint is live!</title>
+  <dc:creator>Jarek Bryk</dc:creator>
+  <link>https://bryklab.net/posts/2021-06-23-unigems-preprint-is-live/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Just what is says on the tin - we have finally put our UNIGEMS paper on biorxiv: <a href="https://www.biorxiv.org/content/10.1101/2021.06.20.449138v1">UNIGEMS: plasmids and parts to facilitate teaching on assembly, gene expression control and logic in E. coli</a>. The paper describes the 10 plasmids we have constructed and characterised to facilitate all sorts of introductory practical classes around the concepts in synthetic biology, genetics engineering and/or general microbiology.</p>
+<p>I have written a <a href="https://twitter.com/jarekbryk/status/1407626426619023360?s=20">longish Twitter thread</a> describing it in more detail, so I am just going to link to it below. If you have any questions about these resources, give me a shout on Twitter.</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{bryk2021,
+  author = {Bryk, Jarek},
+  title = {UNIGEMS Preprint Is Live!},
+  date = {2021-06-23},
+  url = {https://bryklab.net/posts/2021-06-23-unigems-preprint-is-live/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-bryk2021" class="csl-entry quarto-appendix-citeas">
+Bryk, Jarek. 2021. <span>“UNIGEMS Preprint Is Live!”</span> June 23,
+2021. <a href="https://bryklab.net/posts/2021-06-23-unigems-preprint-is-live/">https://bryklab.net/posts/2021-06-23-unigems-preprint-is-live/</a>.
+</div></div></section></div> ]]></description>
+  <guid>https://bryklab.net/posts/2021-06-23-unigems-preprint-is-live/</guid>
+  <pubDate>Tue, 22 Jun 2021 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>A new website!</title>
+  <dc:creator>Jarek Bryk</dc:creator>
+  <link>https://bryklab.net/posts/2021-02-22-a-new-website/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Testing… testing… one two three… Please expect gremlins and other bugs in the next few weeks as I am updating the site and moving things over…</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{bryk2021,
+  author = {Bryk, Jarek},
+  title = {A New Website!},
+  date = {2021-02-22},
+  url = {https://bryklab.net/posts/2021-02-22-a-new-website/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-bryk2021" class="csl-entry quarto-appendix-citeas">
+Bryk, Jarek. 2021. <span>“A New Website!”</span> February 22, 2021. <a href="https://bryklab.net/posts/2021-02-22-a-new-website/">https://bryklab.net/posts/2021-02-22-a-new-website/</a>.
+</div></div></section></div> ]]></description>
+  <guid>https://bryklab.net/posts/2021-02-22-a-new-website/</guid>
+  <pubDate>Mon, 22 Feb 2021 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Next generation biologists cloud computing workshop</title>
+  <dc:creator>Jarek Bryk</dc:creator>
+  <link>https://bryklab.net/posts/2019-12-10-next-generation-biologists-cloud-computing-workshop/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We are happy to announce the next - and likely the last (!) - workshop in our “Next Generation Biologists” series. During <strong>two days in January 16-17 (Thursday and Friday) at the University of Leeds</strong>, we will practice working on remote servers, setting up virtual machines and installing remote working environments such as R Studio. As usual, application procedure and more information is available at <a href="http://nextgenbiologists.org">nextgenbiologists.org</a>.</p>
+<p>There is no registration deadline this time - you can register up to the last day before the workshop - but we will start sending confirmations of participation on January 6th. <a href="https://docs.google.com/forms/d/1GmLuhnPvx8HjilFx5sr59zc29PADULuB3zWWuquNogM/viewform?edit_requested=true">The registration form is open</a> - apply away!</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{bryk2019,
+  author = {Bryk, Jarek},
+  title = {Next Generation Biologists Cloud Computing Workshop},
+  date = {2019-12-10},
+  url = {https://bryklab.net/posts/2019-12-10-next-generation-biologists-cloud-computing-workshop/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-bryk2019" class="csl-entry quarto-appendix-citeas">
+Bryk, Jarek. 2019. <span>“Next Generation Biologists Cloud Computing
+Workshop.”</span> December 10, 2019. <a href="https://bryklab.net/posts/2019-12-10-next-generation-biologists-cloud-computing-workshop/">https://bryklab.net/posts/2019-12-10-next-generation-biologists-cloud-computing-workshop/</a>.
+</div></div></section></div> ]]></description>
+  <guid>https://bryklab.net/posts/2019-12-10-next-generation-biologists-cloud-computing-workshop/</guid>
+  <pubDate>Tue, 10 Dec 2019 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Hello, Haeyam!</title>
+  <dc:creator>Jarek Bryk</dc:creator>
+  <link>https://bryklab.net/posts/2019-09-16-hello-haeyam/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We are very happy to welcome Haeyam Taiy, a new member of the BrykLab, for her year-long research placement with our group. Haeyam is a current student at Huddersfield and very <del>unwisely</del> cleverly decided to spend this year getting to grips with all things bioinformatics! She will be working with our <em>Apodemus</em> RAD-seq data to analyse various carryover sequences in there, primarily those from ticks, <em>Borrelia</em> bacteria and hantaviruses.</p>
+<p>Welcome, Hayeam :-)</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{bryk2019,
+  author = {Bryk, Jarek},
+  title = {Hello, {Haeyam!}},
+  date = {2019-09-16},
+  url = {https://bryklab.net/posts/2019-09-16-hello-haeyam/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-bryk2019" class="csl-entry quarto-appendix-citeas">
+Bryk, Jarek. 2019. <span>“Hello, Haeyam!”</span> September 16, 2019. <a href="https://bryklab.net/posts/2019-09-16-hello-haeyam/">https://bryklab.net/posts/2019-09-16-hello-haeyam/</a>.
+</div></div></section></div> ]]></description>
+  <guid>https://bryklab.net/posts/2019-09-16-hello-haeyam/</guid>
+  <pubDate>Sun, 15 Sep 2019 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Congratulations, Dr Martin Cerezo!</title>
+  <dc:creator>Jarek Bryk</dc:creator>
+  <link>https://bryklab.net/posts/2018-11-18-congratulations-dr-martin-cerezo/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>It is my great pleasure to congratulate Marisa on successful completion of her doctoral thesis “European phylogeography and genetic structure of wood and yellow-necked mice <i>Apodemus flavicollis</i> and <i>Apodemus sylvaticus</i> based on whole-genome, high-density genotyping by restriction-site-associated DNA sequencing (RAD-seq)”. She is now Dr Maria Luisa Martin Cerezo and the first alumni of the BrykLab. Dr Martin Cerezo is now a postdoctoral researcher in <a href="https://www.wrightlab.se/home">Wright’s lab at the University of Linköping</a> in Sweden, where she is working on genomic signatures of feralization in chickens (field work in Bermuda included!) :-)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://bryklab.net/images/marisa-graduation.jpg" title="Marisa with her supervisor on graduation day" class="img-fluid figure-img"></p>
+<figcaption>Marisa with her supervisor on graduation day :-)</figcaption>
+</figure>
+</div>
+<p>Bloody well done Marisa! All the best in your research future!</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{bryk2018,
+  author = {Bryk, Jarek},
+  title = {Congratulations, {Dr} {Martin} {Cerezo!}},
+  date = {2018-11-18},
+  url = {https://bryklab.net/posts/2018-11-18-congratulations-dr-martin-cerezo/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-bryk2018" class="csl-entry quarto-appendix-citeas">
+Bryk, Jarek. 2018. <span>“Congratulations, Dr Martin Cerezo!”</span>
+November 18, 2018. <a href="https://bryklab.net/posts/2018-11-18-congratulations-dr-martin-cerezo/">https://bryklab.net/posts/2018-11-18-congratulations-dr-martin-cerezo/</a>.
+</div></div></section></div> ]]></description>
+  <guid>https://bryklab.net/posts/2018-11-18-congratulations-dr-martin-cerezo/</guid>
+  <pubDate>Sun, 18 Nov 2018 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Announcing Programming for Evolutionary Biology Conference</title>
+  <dc:creator>Jarek Bryk</dc:creator>
+  <link>https://bryklab.net/posts/2018-05-27-announcing-programming-for-evolutionary-biology-conference/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><em>UPDATE 20th July 2018</em> Thanks to generous funding from our supporting organisations, <a href="http://www.genetics.org.uk">The Genetics Society</a> and <a href="http://www.biologists.com">The Company of Biologists</a>, we are able to keep the registration open. If you still thinking of applying, please <a href="mailto:pebconference@gmail.com">send us an email</a>, we may be able to accommodate you!</p>
+<p><img src="https://bryklab.net/images/geneticssociety_logo.jpg" title="The Genetics Society logo" class="img-fluid" alt="The Genetics Society logo"> <img src="https://bryklab.net/images/companyofbiologists_logo.jpg" title="The Company of Biologists logo" class="img-fluid" alt="The Company of Biologists logo"></p>
+<p>As you might have heard elsewhere ;-), this Autumn we are organising a PGR and ECR-led conference: <a href="http://pebconference.info">Programming for Evolutionary Biology Conference</a>. From September 2-6 we are taking over an entire <a href="https://www.yha.org.uk/hostel/yha-buttermere">YHA Hostel in Buttermere in the Lake District</a> for four days of talks and workshops. Here is the excerpt from <a href="http://pebconference.info">the conference website</a>:</p>
+<p>The Programming for Evolutionary Biology (PEB) conference brings together scientists broadly interested in applying bioinformatic tools to answer evolutionary and ecological questions. Unlike other conferences featuring mostly talks and poster sessions, it aims to serve as a platform for discussing common programming pitfalls encountered during research and features workshops to further develop participants’ bioinformatic skills.</p>
+<p>The conference is informal and cheap (£275 all inclusive except travel), so go ahead and apply :-): - <a href="http://pebconference.info/programme/">Preliminary programme</a> (you can propose your own workshop idea at registration) - <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1wfx42GIdVbpWxKwSfoQ5HJSX_GqGQJU54mCkHVujQcObeg/viewform">Registration form</a> <strong>email us if you’re still thinking of applying</strong> - <a href="https://www.store.hud.ac.uk/product-catalogue/conferences/conference-registration/registration-for-the-programming-for-evolutionary-biology-conference">Payment form</a> <strong>deadline at midnight on July 31st</strong></p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{bryk2018,
+  author = {Bryk, Jarek},
+  title = {Announcing {Programming} for {Evolutionary} {Biology}
+    {Conference}},
+  date = {2018-05-27},
+  url = {https://bryklab.net/posts/2018-05-27-announcing-programming-for-evolutionary-biology-conference/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-bryk2018" class="csl-entry quarto-appendix-citeas">
+Bryk, Jarek. 2018. <span>“Announcing Programming for Evolutionary
+Biology Conference.”</span> May 27, 2018. <a href="https://bryklab.net/posts/2018-05-27-announcing-programming-for-evolutionary-biology-conference/">https://bryklab.net/posts/2018-05-27-announcing-programming-for-evolutionary-biology-conference/</a>.
+</div></div></section></div> ]]></description>
+  <guid>https://bryklab.net/posts/2018-05-27-announcing-programming-for-evolutionary-biology-conference/</guid>
+  <pubDate>Sat, 26 May 2018 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Hello, Alex!</title>
+  <dc:creator>Jarek Bryk</dc:creator>
+  <link>https://bryklab.net/posts/2017-10-26-hello-alex/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We are very happy to welcome the third member (!) of our merry band, Alexandra Siddall, who joins us from the <del>wrong</del> other side of the Pennines for her year-long research placement at the University of Huddersfield. Alex is a current student at Huddersfield, inexplicably drawn to all things synthetic biology ;-) and so she decided to take over my UNIGEMS project <em>and</em> support NCBE at the University of Reading in the development of the few missing parts in the Wellcome kits.</p>
+<p>Welcome, Alex :-)</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{bryk2017,
+  author = {Bryk, Jarek},
+  title = {Hello, {Alex!}},
+  date = {2017-10-26},
+  url = {https://bryklab.net/posts/2017-10-26-hello-alex/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-bryk2017" class="csl-entry quarto-appendix-citeas">
+Bryk, Jarek. 2017. <span>“Hello, Alex!”</span> October 26, 2017. <a href="https://bryklab.net/posts/2017-10-26-hello-alex/">https://bryklab.net/posts/2017-10-26-hello-alex/</a>.
+</div></div></section></div> ]]></description>
+  <guid>https://bryklab.net/posts/2017-10-26-hello-alex/</guid>
+  <pubDate>Wed, 25 Oct 2017 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Hello, Rohan!</title>
+  <dc:creator>Jarek Bryk</dc:creator>
+  <link>https://bryklab.net/posts/2017-10-25-hello-rohan/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We are very happy to welcome Rohan Raval, a new PhD student in Huddersfield, who came to Huddersfield from the depths of the Silwood Park in the faraway lands of somewhere west of London. Not only he used to do a lot of field work with <i>Apodemus</i>, but he also did his Masters in Computational Methods in Ecology and Evolution at Imperial College London, studying genomic signature of sexual dimorphism in <i>Drosophila</i>. He will be working on genetics and genomics of metabolic rates in <i>A. flavicolis</i>.</p>
+<p>Welcome, Rohan :-)</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{bryk2017,
+  author = {Bryk, Jarek},
+  title = {Hello, {Rohan!}},
+  date = {2017-10-25},
+  url = {https://bryklab.net/posts/2017-10-25-hello-rohan/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-bryk2017" class="csl-entry quarto-appendix-citeas">
+Bryk, Jarek. 2017. <span>“Hello, Rohan!”</span> October 25, 2017. <a href="https://bryklab.net/posts/2017-10-25-hello-rohan/">https://bryklab.net/posts/2017-10-25-hello-rohan/</a>.
+</div></div></section></div> ]]></description>
+  <guid>https://bryklab.net/posts/2017-10-25-hello-rohan/</guid>
+  <pubDate>Tue, 24 Oct 2017 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Fully-funded PhD position on comparative genomics of Apodemus</title>
+  <dc:creator>Jarek Bryk</dc:creator>
+  <link>https://bryklab.net/posts/2017-03-08-phd-position-available-at-bryklab/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>The BrykLab has* a fully-funded PhD position available to continue and expand <a href="https://bryklab.net/research/">our work on <em>Apodemus</em> genomics</a>, from phylogeography to genome-wide scans for positive selection. The position is officially adverstised on <a href="https://www.findaphd.com/search/PhDDetails.aspx?CAID=2816">findaphd.com</a> and the deadline in on <em>March 26th</em> (!).</p>
+<p>(*The university announced 15 projects in total but only 8 studentships, and only projects that will attract the best candidates overall will be awarded the positions.)</p>
+<p>Below is a slightly modified text of the announcement that will go live any day now on <a href="http://evol.mcmaster.ca/cgi-bin/my_wrap/brian/evoldir/GradStudentPositions/">evoldir</a>.</p>
+<p>Rodents from the genus <em>Apodemus</em> are the most common mammals in the Palearctic and an attractive subject for evolutionary and molecular studies: they are likely to be under multitude of selective pressures in different habitats, they contribute to the spread of Lyme disease and tick–borne encephalitis and harbour extra (“B”) chromosomes. However, the genomic and genetic resources for their studies remain very limited.</p>
+<p>We are a young and small research group that has recently embarked on establishing phylogenetic and phylogeographic relationships between Apodemus populations in Europe based on whole-genome genotypes. Thanks to collaboration with researchers in Poland, Germany and Belgium we are presently acquiring and analysing whole-genome high-density genotyping data (ddRAD-seq) from hundreds of individuals across Europe. Analysis of this data will inform future directions of our studies: phylogeography of sylvaticus and flavicolis, diversity and divergence of their populations, SNP-based genetic maps and whole-genome scans for signatures of positive selection.</p>
+<p>We are looking for an independent candidate with keen interest in evolution and computational approaches to study genetic variation on a population scale. Familiarity with UNIX/Linux, command line or R is a plus, as is research experience, preferably on a master’s level, but strong B.Sc. graduates are also encouraged to apply. Majority of the project involves computational analyses of large datasets, but it has a small wet-lab component, such as preparation of DNA and/or RNA sequencing libraries.</p>
+<p>The PhD student will be associated with the Evolutionary and Environmental Genomics Group at the Department of Biological Sciences and embedded with PhD students in the Leverhulme Doctoral Training Centre who work on human and cattle phylogeography, archaeoentomology, yeast transposable elements and evolution of choanoflagellates using genomic approaches. The studentship requires candidates to undertake small teaching duties during the PhD. For more information about us and our work, please go to <a href="https://bryklab.net/research/">bryklab.net/research/</a> and <a href="https://www.hud.ac.uk/ourstaff/profile/index.php?staffid=1409">Jarek Bryk’s staff profile</a>. Candidates are encouraged to <a href="mailto:j.bryk@hud.ac.uk">contact the project’s supervisor</a>, Dr Jarek Bryk, directly with informal questions and requests.</p>
+<p>To apply, send an email outlining your motivation and experience to <a href="mailto:j.bryk@hud.ac.uk">j.bryk@hud.ac.uk</a> (CC’d to f.cross@hud.ac.uk), including a CV and the names of two referees. You also need to complete an <a href="http://halo.hud.ac.uk/pgr_onlineapps/">on-line application</a>. For more details about the application process please go to <a href="https://www.findaphd.com/search/PhDDetails.aspx?CAID=3062">the official announcement on findaphd.com</a>.</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{bryk2017,
+  author = {Bryk, Jarek},
+  title = {Fully-Funded {PhD} Position on Comparative Genomics of
+    {Apodemus}},
+  date = {2017-03-08},
+  url = {https://bryklab.net/posts/2017-03-08-phd-position-available-at-bryklab/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-bryk2017" class="csl-entry quarto-appendix-citeas">
+Bryk, Jarek. 2017. <span>“Fully-Funded PhD Position on Comparative
+Genomics of Apodemus.”</span> March 8, 2017. <a href="https://bryklab.net/posts/2017-03-08-phd-position-available-at-bryklab/">https://bryklab.net/posts/2017-03-08-phd-position-available-at-bryklab/</a>.
+</div></div></section></div> ]]></description>
+  <guid>https://bryklab.net/posts/2017-03-08-phd-position-available-at-bryklab/</guid>
+  <pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>My talk at Yorkshire Wildlife Trust</title>
+  <dc:creator>Jarek Bryk</dc:creator>
+  <link>https://bryklab.net/posts/2017-02-04-my-talk-at-yorkshire-wildlife-trust/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://bryklab.net/images/ywt_banner.jpg" title="Yorkshire Wildlife Trust Cake and Nature talks banner" class="img-fluid figure-img"></p>
+<figcaption>Yorkshire Wildlife Trust logo</figcaption>
+</figure>
+</div>
+<p>I was recently invited by Kara Jackson from the <a href="http://www.ywt.org.uk">Yorkshire Wildlife Trust</a> (YWT) to give a talk on our research and/or evolutionary biology. I wasn’t aware of the YWT before, but it turns out they own a big farm over at Berry Brow, which they maintain to showcase agricultural practice that respects and enable wildlife to flourish. It’s called <a href="http://www.ywt.org.uk/stirley">Stirley Community Farm</a> and it includes a community centre, where they recently launched “Cake and Nature” series of talks—hence my visit.</p>
+<p><a href="http://www.ywt.org.uk/events/2017/02/16/cake-and-nature-evolutionary-biology?instance=0">The talk will take place on 16th February at 7pm</a> (<a href="https://www.google.co.uk/maps/dir//HD4+6RP,+Hall+Bower+Ln,+Huddersfield/@53.6223177,-1.7817204,17z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x487bdb930b835b83:0xdf039e38b613bb2!2m2!1d-1.7795317!2d53.6223177">map</a>) and I will be talking on how we use DNA to study evolution. The full abstract of my talk is below:</p>
+<p>In the last decade, biological sciences have undergone a revolution: due to breakthrough developments in sequencing technologies—the capability to read DNA—it is now possible to obtain complete genetic information on a population scale. Apart from more mainstream application of these advances, such as genealogy or identification of disease–causing mutations, one of the most exciting is our ability to study patterns of genetic variation in wild populations of almost any species. This ability, coupled with studies of the genetics material of long–extinct organisms, allows unprecedented insight into the evolutionary history of many species.</p>
+<p>I will provide an overview of how we study molecular basis of evolutionary change by looking at DNA of modern and extinct species through several examples, from metabolism of bacteria and wings of peppered moths through the beaks of Darwin’s finches to the fur of beach mice and others, including the most self-obsessed of the apes, humans.</p>
+<p>These advances are being developed on the background of our ability to also synthesize DNA of a desired sequence and modify DNA in situ to an extraordinary degree. Overall, they have turned biology into a sophisticated, statistics–based and data–driven discipline not unlike high-energy physics, justifying the expectations that the XXI century will be the age of biology.</p>
+<p>See you there!</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{bryk2017,
+  author = {Bryk, Jarek},
+  title = {My Talk at {Yorkshire} {Wildlife} {Trust}},
+  date = {2017-02-04},
+  url = {https://bryklab.net/posts/2017-02-04-my-talk-at-yorkshire-wildlife-trust/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-bryk2017" class="csl-entry quarto-appendix-citeas">
+Bryk, Jarek. 2017. <span>“My Talk at Yorkshire Wildlife Trust.”</span>
+February 4, 2017. <a href="https://bryklab.net/posts/2017-02-04-my-talk-at-yorkshire-wildlife-trust/">https://bryklab.net/posts/2017-02-04-my-talk-at-yorkshire-wildlife-trust/</a>.
+</div></div></section></div> ]]></description>
+  <guid>https://bryklab.net/posts/2017-02-04-my-talk-at-yorkshire-wildlife-trust/</guid>
+  <pubDate>Sat, 04 Feb 2017 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Hello, Marisa!</title>
+  <dc:creator>Jarek Bryk</dc:creator>
+  <link>https://bryklab.net/posts/2015-10-09-hello-marisa/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I am very happy to welcome Marisa Martín Cerezo, a new PhD student in Huddersfield, with whom I will be working on the <em>Apodemus</em> and <em>Mustela</em> projects. Marisa came to The North from Madrid, where she did her Masters on mtDNA-based phylogeography of snails from the <em>Caenogastropoda</em> clade, and subsequently worked on extremophilic lichens <em>Circinaria&nbsp;gyrosa</em> (in outer space!). She also studied invasive biology of fire ants <em>Solenopsis geminata</em> at Galapagos Islands (!). Unfortunately, she supports <a href="http://www.clubatleticodemadrid.com">the other club</a> from Madrid, but hey, nobody’s perfect.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://bryklab.net/images/marisa.jpg" title="Marisa in the lab" class="img-fluid figure-img"></p>
+<figcaption>Marisa in the lab</figcaption>
+</figure>
+</div>
+<p>Welcome, Marisa :-)</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{bryk2015,
+  author = {Bryk, Jarek},
+  title = {Hello, {Marisa!}},
+  date = {2015-10-09},
+  url = {https://bryklab.net/posts/2015-10-09-hello-marisa/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-bryk2015" class="csl-entry quarto-appendix-citeas">
+Bryk, Jarek. 2015. <span>“Hello, Marisa!”</span> October 9, 2015. <a href="https://bryklab.net/posts/2015-10-09-hello-marisa/">https://bryklab.net/posts/2015-10-09-hello-marisa/</a>.
+</div></div></section></div> ]]></description>
+  <guid>https://bryklab.net/posts/2015-10-09-hello-marisa/</guid>
+  <pubDate>Thu, 08 Oct 2015 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Hello, world!</title>
+  <dc:creator>Jarek Bryk</dc:creator>
+  <link>https://bryklab.net/posts/2015-07-14-hello-world/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Welcome to the website of a research group of Dr Jarek Bryk at <a href="http://www.hud.ac.uk">the University of Huddersfield</a> in the north of England.</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{bryk2015,
+  author = {Bryk, Jarek},
+  title = {Hello, World!},
+  date = {2015-07-14},
+  url = {https://bryklab.net/posts/2015-07-14-hello-world/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-bryk2015" class="csl-entry quarto-appendix-citeas">
+Bryk, Jarek. 2015. <span>“Hello, World!”</span> July 14, 2015. <a href="https://bryklab.net/posts/2015-07-14-hello-world/">https://bryklab.net/posts/2015-07-14-hello-world/</a>.
+</div></div></section></div> ]]></description>
+  <guid>https://bryklab.net/posts/2015-07-14-hello-world/</guid>
+  <pubDate>Mon, 13 Jul 2015 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
