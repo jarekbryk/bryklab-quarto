@@ -10,7 +10,50 @@
 <atom:link href="https://bryklab.net/index.xml" rel="self" type="application/rss+xml"/>
 <description>Dr Jarek Bryk&#39;s website at the University of Huddersfield in the north of England</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Tue, 18 Mar 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 02 Apr 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>NorthernBUG 14 in Huddersfield</title>
+  <dc:creator>Jarek Bryk</dc:creator>
+  <link>https://bryklab.net/posts/2025-04-03-northernbug14-in-huddersfield/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Last week, on Friday 28th March 2025, <a href="https://northernbug.github.io/northernbug14">the 14th edition of the Northern Bioinformatics User Group took place at the University of Huddersfield</a>. For the first time, the meeting was joint with the Yorkshire Universities Evolution Group (YUEG). TL;DR: it went well!</p>
+<p><img src="https://bryklab.net/images/nbug_directions.jpeg" title="One of nBUG14 directions posters" class="img-fluid"></p>
+<p>We had about 60 participants, including a strong contingent of University of Huddersfield undergraduate students, who all presented their poster during the poster session. The talks were great (if I say so myself) and so were the posters - the poster session was large (16 posters overall) and long (which was good, as it was a main networking time).</p>
+<p>Organisation was smooth, entirely thanks to the effort by Ophelia Forbes and other students from the Bioscience Society. Ophelia even designed our logo and produced all the graphics materials for the conference! Thank you very much for everything.</p>
+<p>(BTW the bug in the logo is based on the shape <em>Parapiesma quadratum spergulariae</em>, <a href="https://www.britishbugs.org.uk/heteroptera/Piesmatidae/piesma_quadratum.html">a subspecies of <em>Parapiesma quadratum</em> that is endemic to the UK</a>.)</p>
+<p>Shortly before the meeting we also learned that The Genetics Society has awarded our <a href="https://genetics.org.uk/events/northern-bioinformatics-user-group-northern-bug/">Special Interest Group</a> another year of funding, which, given difficult financial circumstances, makes us even more grateful for their support. Just as for our sponsors, as the meeting was officially sponsored by the Oxford Nanopore. Their representatives brought a bunch of new MinIONs with them and talked about fancy new RNA sequencing hardware and analysis pipelines. Thank you!</p>
+<p>I am writing this still before we close the participants’ feedback form, but I had a sneak peek just now and we are firmly in the 90% satisfaction score ;-). I will post a longer analysis to our <a href="https://groups.google.com/g/northern-bug">Google Groups page</a> next week once the form closes.</p>
+<p>On to the next - the rumour has it that the next nBUG will take place in Bradford after the summer. See you there.</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{bryk2025,
+  author = {Bryk, Jarek},
+  title = {NorthernBUG 14 in {Huddersfield}},
+  date = {2025-04-03},
+  url = {https://bryklab.net/posts/2025-04-03-northernbug14-in-huddersfield/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-bryk2025" class="csl-entry quarto-appendix-citeas">
+Bryk, Jarek. 2025. <span>“NorthernBUG 14 in Huddersfield.”</span> April
+3, 2025. <a href="https://bryklab.net/posts/2025-04-03-northernbug14-in-huddersfield/">https://bryklab.net/posts/2025-04-03-northernbug14-in-huddersfield/</a>.
+</div></div></section></div> ]]></description>
+  <guid>https://bryklab.net/posts/2025-04-03-northernbug14-in-huddersfield/</guid>
+  <pubDate>Wed, 02 Apr 2025 23:00:00 GMT</pubDate>
+</item>
 <item>
   <title>A new website - again!</title>
   <dc:creator>Jarek Bryk</dc:creator>
