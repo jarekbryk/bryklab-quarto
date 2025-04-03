@@ -21,7 +21,7 @@
 
 
 
-<p>Finally! After a long while I updated this website to Quarto, rearranged some sections to highlight my work at STLT plus UNIGEMS and other resources, and moved over all the posts. It should last for a while now. Enjoy!</p>
+<p>Finally! After a long while I have updated this website to Quarto, rearranged some sections to highlight my work at STLT plus UNIGEMS and other resources, and moved over all the posts. It should last for a while now. Enjoy!</p>
 
 
 
@@ -91,6 +91,44 @@ Bryk, Jarek. 2023. <span>“UNIGEMS Paper Is Published.”</span> October 2,
 </div></div></section></div> ]]></description>
   <guid>https://bryklab.net/posts/2023-10-02-unigems-paper-is-published/</guid>
   <pubDate>Sun, 01 Oct 2023 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>TASO Institutional Data Use Project</title>
+  <dc:creator>Jarek Bryk</dc:creator>
+  <link>https://bryklab.net/posts/2024-10-30-taso-project-outcomes/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>For the last year, STLT has taken part in the Institutional Data Use project run by the <a href="https://taso.org.uk/">Transforming Access and Student Outcomes in Higher Education (TASO)</a> The project aims to help the higher education sector use institutional data to generate evidence about which initiatives are effective in supporting student success and reducing equality gaps. We provided data on and helped evaluate a low-stakes assessment project in the School of Computing and Engineering, alongside a series of discussions and workshops on setting up apropriate data, reporting and evaluation procedures in a higher education institution.</p>
+<p><img src="https://bryklab.net/images/taso_cover.jpeg" title="Cover of the IPE report on SAIL for TASO" class="img-fluid"></p>
+<p><a href="https://taso.org.uk/libraryitem/resources-institutional-data-use/">The project’s overall outputs</a> are gathered at TASO website. We will also use this experience to analyse and evaluate educational interventions for the <a href="https://www.officeforstudents.org.uk/for-providers/regulatory-resources/search-for-access-and-participation-plans/#/AccessPlans/provider/10007148">Access and Participation Plan</a>.</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{bryk2023,
+  author = {Bryk, Jarek},
+  title = {TASO {Institutional} {Data} {Use} {Project}},
+  date = {2023-01-15},
+  url = {https://bryklab.net/posts/2024-10-30-taso-project-outcomes/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-bryk2023" class="csl-entry quarto-appendix-citeas">
+Bryk, Jarek. 2023. <span>“TASO Institutional Data Use Project.”</span>
+January 15, 2023. <a href="https://bryklab.net/posts/2024-10-30-taso-project-outcomes/">https://bryklab.net/posts/2024-10-30-taso-project-outcomes/</a>.
+</div></div></section></div> ]]></description>
+  <guid>https://bryklab.net/posts/2024-10-30-taso-project-outcomes/</guid>
+  <pubDate>Sun, 15 Jan 2023 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>We have won!</title>
