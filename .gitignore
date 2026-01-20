@@ -19,3 +19,5 @@ teaching/*
 unigems/*
 bryklab-quarto.Rproj
 /.quarto/
+
+**/*.quarto_ipynb
